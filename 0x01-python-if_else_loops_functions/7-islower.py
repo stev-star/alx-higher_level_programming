@@ -1,5 +1,5 @@
 #!/usr/bin/python3
 
 def islower(c):
-    return "a" <  chr(c) < "z":
+    return 97 <= ord(c) <= 123:
         
