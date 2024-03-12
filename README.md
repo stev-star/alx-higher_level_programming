@@ -1,1 +1,1 @@
-# Python projects from a basic level to an advanced stage
+# Python projects from basic level to an advanced stage
