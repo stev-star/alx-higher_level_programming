@@ -2,7 +2,7 @@
 
 if __name__ == "__main__":
 # import the module required
-    import add_0.py as add
+    import add_0 as add
 
     a = 1
     b = 2
