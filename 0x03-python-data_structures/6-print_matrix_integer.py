@@ -8,4 +8,7 @@ def print_matrix_integer(matrix=[[]]):
         for i in row:
             if col < row_elements - 1:
                 print("{:d}".format(i), end=" ")
+            else:
+                print("{:d}".format(i), end="")
+            col += 1
         print()
